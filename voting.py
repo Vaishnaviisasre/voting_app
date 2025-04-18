@@ -69,4 +69,3 @@ if __name__ == "__main__":
         reset_votes()
     else:
         print("Invalid command or arguments.")
-
